@@ -31,6 +31,9 @@ li {
   padding: 100px 80px;
 }
 
+.copy-container{
+  color:black;
+}
 .copy-container h1 {
   font-size: 140px;
 }
