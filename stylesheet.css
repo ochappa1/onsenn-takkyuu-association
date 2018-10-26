@@ -49,7 +49,8 @@ li {
 
 
 .contents{
-  height:500px;
+  height:700px;
+  color:black;
 }
 
 
@@ -66,6 +67,35 @@ img.pictures{
   height:250px;
   border:5px solid black;
   margin:2px;
+}
+
+
+.facebook {
+  background-color: #3b5998;
+  margin-right:5px;
+}
+
+.twitter {
+  background-color: #55acee;
+}
+
+.btn {
+  padding: 8px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.fa {
+  margin-right: 5px;
+}
+.sharings{
+  margin: 10px;
 }
 .footer {
   background-color: #2f5167;
